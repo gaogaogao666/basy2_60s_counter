@@ -1,0 +1,19 @@
+NET "clk" LOC=B8;
+
+NET"bmkg0" LOC=P11;
+
+NET"stay" LOC=L3;
+
+NET"qc[0]" LOC=L14;
+NET"qc[1]" LOC=H12;
+NET"qc[2]" LOC=N14;
+NET"qc[3]" LOC=N11;
+NET"qc[4]" LOC=P12;
+NET"qc[5]" LOC=L13;
+NET"qc[6]" LOC=M12;
+NET"qc[7]" LOC=N13;
+NET"wei[0]" LOC=K14;
+NET"wei[1]" LOC=M13;
+NET"wei[2]" LOC=J12;
+NET"wei[3]" LOC=F12;
+
